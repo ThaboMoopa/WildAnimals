@@ -1,0 +1,11 @@
+1 Lion lion.png
+2 Elephant elephant.png
+3 Rhinoceros rhinoceros.png
+4 Tiger tiger.png
+5 Buffalo buffalo.png
+6 Leopard leopard.png
+7 Cheetah cheetah.png
+8 Bear bear.png
+9 Zebra zebra.png
+10 Monkey monkey.png
+
